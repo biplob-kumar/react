@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+}
+h1{
+    background-color: blueviolet;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+}
+h2{
+    background-color: aliceblue;
+}
+h5{
+    margin-top: 2rem;
+    background-color: whitesmoke;
+    font-size: 2rem;
+}
+
+
+button{
+
+    padding: 10px 20px;
+    margin: 2px;
+    background-color: blueviolet;
+    border: blueviolet;
+    color: rgb(255, 251, 251);
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+.main{
+   padding: 10px ;
+    display: inline-block;
+    height: 300px;
+    width: 500px;
+   background-color: aliceblue;
+    margin-top: 100px;
+}
